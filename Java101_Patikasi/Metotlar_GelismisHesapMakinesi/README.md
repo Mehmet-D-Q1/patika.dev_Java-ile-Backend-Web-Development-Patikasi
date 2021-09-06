@@ -8,6 +8,7 @@ Hesap makinesinin fonksiyonları :
 2- Çıkarma İşlemi
 
 3- Çarpma İşlemi
+
 4- Bölme işlemi
 
 5- Üslü Sayı Hesaplama
