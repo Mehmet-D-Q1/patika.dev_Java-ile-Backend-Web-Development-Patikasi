@@ -5,12 +5,12 @@ public class Harmonik {
 
         int[] list = {15,6,7,12,7,9,3};
         double hAvarage = 0.0;
-        double sum = 1;
+        double hSum = 1;
         for (int i = 0; i < list.length; i++) {
-            sum += 1.0/list[i];
-            hAvarage = sum;
+            hSum += 1.0/list[i];
+            hAvarage = list.length / hSum;
         }
-        System.out.println("Sayıların Harmonik Ortalaması: " + hAvarage);
 
+        System.out.println("Sayıların Harmonik Ortalaması: " + hAvarage);
     }
 }
