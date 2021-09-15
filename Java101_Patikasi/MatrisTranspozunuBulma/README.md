@@ -16,16 +16,5 @@ Bu aşamada kxn’lik bir matrisin transpozu (devriği) nxk’lik bir matris olu
 Örneğin aşağıdaki 2x3’lik A matrisinin transpozu (devriği), 2x3’lük bir A^T matrisidir.
 
 Senaryo
-
-
-Matris : 
-2    3    4  
-
-5    6    4  
-
-Transpoze : 
-2       5    
-
-3       6    
-
-4       4    
+  
+![image](https://user-images.githubusercontent.com/83539143/133399696-64c289d8-54b9-4175-8c33-5ab15a487a73.png)
